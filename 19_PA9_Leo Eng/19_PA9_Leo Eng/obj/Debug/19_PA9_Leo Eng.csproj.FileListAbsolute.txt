@@ -8,3 +8,13 @@ E:\SchoolWork\19_PA9_Leo Eng\19_PA9_Leo Eng\19_PA9_Leo Eng\obj\Debug\19_PA9_Leo 
 E:\SchoolWork\19_PA9_Leo Eng\19_PA9_Leo Eng\19_PA9_Leo Eng\obj\Debug\19_PA9_Leo Eng.csproj.CoreCompileInputs.cache
 E:\SchoolWork\19_PA9_Leo Eng\19_PA9_Leo Eng\19_PA9_Leo Eng\obj\Debug\19_PA9_Leo Eng.exe
 E:\SchoolWork\19_PA9_Leo Eng\19_PA9_Leo Eng\19_PA9_Leo Eng\obj\Debug\19_PA9_Leo Eng.pdb
+C:\Users\Mh\Desktop\19_PA9_Leo Eng\19_PA9_Leo Eng\bin\Debug\19_PA9_Leo Eng.exe.config
+C:\Users\Mh\Desktop\19_PA9_Leo Eng\19_PA9_Leo Eng\bin\Debug\19_PA9_Leo Eng.exe
+C:\Users\Mh\Desktop\19_PA9_Leo Eng\19_PA9_Leo Eng\bin\Debug\19_PA9_Leo Eng.pdb
+C:\Users\Mh\Desktop\19_PA9_Leo Eng\19_PA9_Leo Eng\obj\Debug\19_PA9_Leo Eng.csprojAssemblyReference.cache
+C:\Users\Mh\Desktop\19_PA9_Leo Eng\19_PA9_Leo Eng\obj\Debug\_19_PA9_Leo_Eng.Form1.resources
+C:\Users\Mh\Desktop\19_PA9_Leo Eng\19_PA9_Leo Eng\obj\Debug\_19_PA9_Leo_Eng.Properties.Resources.resources
+C:\Users\Mh\Desktop\19_PA9_Leo Eng\19_PA9_Leo Eng\obj\Debug\19_PA9_Leo Eng.csproj.GenerateResource.cache
+C:\Users\Mh\Desktop\19_PA9_Leo Eng\19_PA9_Leo Eng\obj\Debug\19_PA9_Leo Eng.csproj.CoreCompileInputs.cache
+C:\Users\Mh\Desktop\19_PA9_Leo Eng\19_PA9_Leo Eng\obj\Debug\19_PA9_Leo Eng.exe
+C:\Users\Mh\Desktop\19_PA9_Leo Eng\19_PA9_Leo Eng\obj\Debug\19_PA9_Leo Eng.pdb

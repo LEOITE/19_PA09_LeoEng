@@ -48,6 +48,15 @@ namespace _19_PA9_Leo_Eng
 
                     txt_convertedAmt.Text = convertedvalue.ToString();
                 }
+
+                if (rdb_ringgit.Checked == true)
+                {
+                    AmountEntered = double.Parse(txt_amount.Text);
+                    convertedvalue = AmountEntered * 3.01;
+
+                    txt_convertedAmt.Text = convertedvalue.ToString();
+                }
+
             }
             catch (System.FormatException)
             {
@@ -63,5 +72,6 @@ namespace _19_PA9_Leo_Eng
             rdb_JapaneseYen.Checked = false;
             rdb_USdollars.Checked = false;
         }
+
     }
 }
