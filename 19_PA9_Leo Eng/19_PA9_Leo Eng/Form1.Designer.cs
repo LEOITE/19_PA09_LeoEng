@@ -37,6 +37,7 @@
             this.btn_convert = new System.Windows.Forms.Button();
             this.rdb_USdollars = new System.Windows.Forms.RadioButton();
             this.btn_clear = new System.Windows.Forms.Button();
+            this.rdb_ringgit = new System.Windows.Forms.RadioButton();
             this.SuspendLayout();
             // 
             // lbl_amount
@@ -62,7 +63,7 @@
             // 
             this.txt_convertedAmt.Enabled = false;
             this.txt_convertedAmt.Font = new System.Drawing.Font("Arial Narrow", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_convertedAmt.Location = new System.Drawing.Point(273, 295);
+            this.txt_convertedAmt.Location = new System.Drawing.Point(273, 332);
             this.txt_convertedAmt.Name = "txt_convertedAmt";
             this.txt_convertedAmt.Size = new System.Drawing.Size(231, 38);
             this.txt_convertedAmt.TabIndex = 3;
@@ -71,7 +72,7 @@
             // 
             this.lbl_value.AutoSize = true;
             this.lbl_value.Font = new System.Drawing.Font("Arial Narrow", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_value.Location = new System.Drawing.Point(185, 298);
+            this.lbl_value.Location = new System.Drawing.Point(185, 339);
             this.lbl_value.Name = "lbl_value";
             this.lbl_value.Size = new System.Drawing.Size(82, 31);
             this.lbl_value.TabIndex = 2;
@@ -133,11 +134,25 @@
             this.btn_clear.UseVisualStyleBackColor = true;
             this.btn_clear.Click += new System.EventHandler(this.btn_clear_Click);
             // 
+            // rdb_ringgit
+            // 
+            this.rdb_ringgit.AutoSize = true;
+            this.rdb_ringgit.Font = new System.Drawing.Font("Arial Narrow", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rdb_ringgit.Location = new System.Drawing.Point(273, 278);
+            this.rdb_ringgit.Name = "rdb_ringgit";
+            this.rdb_ringgit.Size = new System.Drawing.Size(204, 35);
+            this.rdb_ringgit.TabIndex = 9;
+            this.rdb_ringgit.TabStop = true;
+            this.rdb_ringgit.Text = "Malaysian Ringgit";
+            this.rdb_ringgit.UseVisualStyleBackColor = true;
+
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.rdb_ringgit);
             this.Controls.Add(this.btn_clear);
             this.Controls.Add(this.rdb_USdollars);
             this.Controls.Add(this.btn_convert);
@@ -165,6 +180,7 @@
         private System.Windows.Forms.Button btn_convert;
         private System.Windows.Forms.RadioButton rdb_USdollars;
         private System.Windows.Forms.Button btn_clear;
+        private System.Windows.Forms.RadioButton rdb_ringgit;
     }
 }
 
